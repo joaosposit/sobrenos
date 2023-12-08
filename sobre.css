@@ -36,7 +36,7 @@
 }
 
 .sobre {
-    background: rgba(0, 0, 0, 0.5) url("Imagens/image\ 8.png");
+    background: rgba(0, 0, 0, 0.5) url("imagens/image\ 8.png");
     background-blend-mode: darken;
     background-repeat: no-repeat;
     background-size: cover;
